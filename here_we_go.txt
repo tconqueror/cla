@@ -1,1 +1,1 @@
-Write-Host "ASCIS{p@yl0ad_1n_txt_rec0rd}"
+Write-Host ([System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String("QVNDSVN7cEB5bDBhZF8xbl90eHRfcmVjMHJkfQ==")))
